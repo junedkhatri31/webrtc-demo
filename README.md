@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/juned3247/webrtc-demo.svg)](https://github.com/juned3247/webrtc-demo/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/juned3247/webrtc-demo.svg)](https://github.com/juned3247/webrtc-demo/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/junedkhatri31/webrtc-demo.svg)](https://github.com/junedkhatri31/webrtc-demo/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/junedkhatri31/webrtc-demo.svg)](https://github.com/junedkhatri31/webrtc-demo/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 ```
-git clone https://github.com/juned3247/webrtc-demo.git && cd webrtc-demo
+git clone https://github.com/junedkhatri31/webrtc-demo.git && cd webrtc-demo
 ```
 ```
 npm install
@@ -56,9 +56,9 @@ Visit http://127.0.0.1:9090 in your browser
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@juned3247](https://github.com/juned3247) - Initial work
+- [@junedkhatri31](https://github.com/junedkhatri31) - Initial work
 
-See also the list of [contributors](https://github.com/juned3247/webrtc-demo/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/junedkhatri31/webrtc-demo/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
